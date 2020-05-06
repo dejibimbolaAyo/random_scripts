@@ -1,0 +1,21 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Random scripts",
+  "main": "syncAllVariants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/app": "^0.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase-admin": "8.9.2",
+    "mongodb": "^3.5.5",
+    "random-id": "^1.0.4",
+    "simpl-schema": "^1.5.7",
+    "underscore": "^1.10.2"
+  }
+}
